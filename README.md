@@ -13,14 +13,14 @@ When I'm not coding, you'll find me reading about new technologies, contributing
 
 ### 🧭 Quick Facts
 
-- 🔭 I'm currently working on **[House Price Prediction](https://github.com/PremPrakashEngineer/ml-house-price-prediction.git)**
 - 🌱 I'm currently learning **Machine Learning,Natural Language Processing.**
+- 🔭 I'm currently working on **Machine Learning,NLP Projects**
 - 👯 I'm looking to collaborate on **open-source projects.**
 - 💬 Ask me about **JavaScript, Node.js and Python,Machine Learning,Natural Language Processing.**
 - 📫 How to reach me: **premprakash.engineer421@gmail.com.**
 - 📍 Based in: **Bengaluru, India**
 - ⚡ Fun fact: **I debug best with a cup of chai ☕**
-
+<!-- <h6>- 🔭 I'm currently working on **[House Price Prediction](https://github.com/PremPrakashEngineer/ml-house-price-prediction.git)**</h6> -->
 ---
 
 ## 🛠️ Languages & Tools
