@@ -47,9 +47,9 @@ When I'm not coding, you'll find me reading about new technologies, contributing
 
 <p align="left">
   <a href="https://linkedin.com/in/prem-prakash-1b6940445" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>&nbsp;
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" /></a>&nbsp;
-  <a href="https://instagram.com/your-instagram" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>&nbsp;
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>
+  <!-- <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" /></a>&nbsp; -->
+  <!-- <a href="https://instagram.com/your-instagram" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>&nbsp; -->
+  <a href="mailto:premprakash.engineer421@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>
 </p>
 
 ---
